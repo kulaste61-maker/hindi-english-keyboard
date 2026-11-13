@@ -1,0 +1,6 @@
+{
+  "name": "Hindi English Smart Keyboard",
+  "description": "Mobile-friendly Hindi and English smart keyboard with English-to-Hindi pronunciation, Hinglish transliteration, voice typing, word suggestions, and auto-correction.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
